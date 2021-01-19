@@ -6,7 +6,7 @@ In the folder project you can find:
 
 (1) Main GNU radio flow grath (FG) of the full-duplex jamming for secrecy system.
 
-(2) The MSc thesis "PHYSICAL-LAYER SECURITY WITH INTERFERENCE GENERATION BY THE RECEIVER" (from André Silva, developed at Instituto de Telecomunicações-University of Coimbra, Portugal) as support documment of the project.
+(2) The MSc thesis "PHYSICAL-LAYER SECURITY WITH INTERFERENCE GENERATION BY THE RECEIVER" (from André Silva, developed at Instituto de Telecomunicações and CISUC, University of Coimbra, Portugal) as support documment of the project.
 
 (3) The GNU-radio FG, organized according thesis chapters, that allow to reproduce thesis results.
 
